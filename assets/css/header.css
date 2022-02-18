@@ -1,0 +1,33 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(11, 83, 83);
+    font-size: 20px;
+    
+}
+
+.logo {
+    align-items: flex-start;
+    margin: auto 0px;
+    font-family: alga;
+}
+
+.menu {
+    display: flex;
+    align-content: space-between;
+    margin: auto 0px;
+    
+}
+
+button {
+    align-content: flex-end;
+    font-size: 25px;
+    font-family: alga;
+    background-color: yellow;
+    padding: 15px 30px;
+    border: 0px;
+}
+
+.menu-content{
+    padding: 0px 20px;
+}
