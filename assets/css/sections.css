@@ -1,5 +1,6 @@
 .section-1{
     width: 60%;
+    padding: 20px 0px;
 }
 
 .section-1 h2{
@@ -11,5 +12,6 @@
 .section-1 p{
     font-size: 20px;
     line-height: 30px;
-    f
+    letter-spacing: 1px;
+    margin-top: -50px;
 }
