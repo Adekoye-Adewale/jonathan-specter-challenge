@@ -8,7 +8,7 @@ header {
 .logo {
     align-items: flex-start;
     margin: auto 0px;
-    font-family: alga;
+    font-family: prata;
 }
 
 .menu {
@@ -21,7 +21,7 @@ header {
 button {
     align-content: flex-end;
     font-size: 25px;
-    font-family: alga;
+    font-family: prata;
     background-color: yellow;
     padding: 15px 30px;
     border: 0px;

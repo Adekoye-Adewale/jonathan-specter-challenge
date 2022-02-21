@@ -6,13 +6,12 @@
 .section-1 h2{
     font-size: 70px;
     font-family: alga;
-    font-weight: 600;
+    font-weight: 500;
 }
 
 .section-1 p{
     font-size: 20px;
     line-height: 30px;
-    letter-spacing: 1px;
     margin-top: -50px;
 }
 
@@ -29,7 +28,7 @@
 }
 
 .section-2 p{
-    margin-top: -40px;
+    margin-top: -30px;
    }
 
 .section-3 {
