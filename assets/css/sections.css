@@ -17,7 +17,12 @@
 }
 
 .partner{
+    padding: 30px 0px;
     display: flex;
     width: 100%;
     justify-content: space-between;
+}
+
+.section-2{
+
 }
