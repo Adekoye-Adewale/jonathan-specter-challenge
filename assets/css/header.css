@@ -2,7 +2,8 @@ header {
     display: flex;
     justify-content: space-between;
     font-size: 20px;
-    
+    padding-left: 150px;
+    padding-right: 150px;
 }
 
 .logo {
