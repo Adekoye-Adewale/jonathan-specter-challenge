@@ -44,15 +44,14 @@
     padding-left: 150px;
     padding-right: 150px;
     background-color: #32353d;
-    display: inline-flex;
-    align-items: flex-end;
+    display: flex;
 }
 
-.sec3l {
+/*.sec3l {
     padding-right: 100px;
 }
 
 .sec3l h3{
     line-height: -1.5em;
     
-}
+}*/
