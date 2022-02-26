@@ -33,10 +33,15 @@
 .section-2{
     display: grid;
     grid-template-columns: auto auto;
-    grid-gap:  100px;
-    padding: 70px 0px;
+    grid-gap: 50px;
+    padding-top: 70px;
     padding-left: 150px;
     padding-right: 150px;
+    padding-bottom: 70px;
+}
+
+.pic {
+    width: 600px;
 }
 
 .section-2 p{
@@ -52,7 +57,7 @@
 .sec3l {
     max-width: 700px;
     width: 100%;
-    margin-right: 150px;
+    margin-right: 70px;
     margin-top: -20px;
 }
 

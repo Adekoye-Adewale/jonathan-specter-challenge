@@ -23,7 +23,7 @@ button {
     align-content: flex-end;
     font-size: 25px;
     font-family: prata;
-    background-color: yellow;
+    background-color: rgb(255, 243, 80);
     padding: 15px 30px;
     border: 0px;
 }
