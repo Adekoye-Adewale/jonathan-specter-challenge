@@ -4,3 +4,12 @@ footer{
     justify-content: space-between;
     background-color: #32353d;
 }
+
+.socials {
+    display: flex;
+    gap: 15px;
+}
+
+.socials img {
+    width: 26px;
+}
